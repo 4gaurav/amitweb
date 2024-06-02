@@ -126,4 +126,12 @@ tabs.on('click', function(e) {
    tabContents.removeClass('open');
    $(contentTab).addClass('open');
 });
+
+
+
+// security starts
+
+// prevent right click
+
+
   
